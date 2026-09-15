@@ -1,5 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmel3056&layout=compact)
-
+<a href="https://github.com/harmel3056/github-readme-stats">
+  <img align="left" src="https://vercel.app" alt="Top Langs" />
+</a>
 <!--
 **harmel3056/harmel3056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
